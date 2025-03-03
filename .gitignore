@@ -2,3 +2,4 @@ env-labeling/
 .ipynb_checkpoints/
 training/
 resources.txt
+test_audio.mp3
