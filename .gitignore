@@ -3,3 +3,9 @@ env-labeling/
 training/
 resources.txt
 test_audio.mp3
+wav2vec2-large-960h/database/
+wav2vec2-large-960h/checkpoints-15-5/
+wav2vec2-large-960h/.ipynb_checkpoints/
+wav2vec2-large-960h/temp.ipynb
+dasheng-base/.ipynb_checkpoints/
+dasheng-base/database/

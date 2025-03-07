@@ -1,0 +1,7 @@
+{
+	"sampling_rate": 16000,
+	"segment_length": 10,
+	"overlap_length": 2,
+	"database_path": "./database",
+	"collection_name": "bird_labeling"
+}
